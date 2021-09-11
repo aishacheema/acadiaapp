@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aishacheema/acadiaapp/issues"
   },
-  "homepage": "https://github.com/aishacheema/acadiaapp#readme"
+  "homepage": "https://github.com/aishacheema/acadiaapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
